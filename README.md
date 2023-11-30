@@ -4,7 +4,8 @@
 This is a tutorial on how to make a discord.py bot
 
 # Step 1 
-![image](https://github.com/Zoxxide2023/Discord.py-bot/assets/97050049/6b2b335c-4826-4981-b6cf-4a43972d833b)
+![image](https://github.com/Zoxxide2023/Discord.py-bot/assets/97050049/1f5e2b34-9edb-4463-a485-190267240d63)
+
 
 Create a New Discord Bot:
 Go to the Discord Developer Portal and create a new application.
