@@ -16,6 +16,7 @@ Click on "Copy" under the "Token" section to copy your bot token.
 ![image](https://github.com/Zoxxide2023/Discord.py-bot/assets/97050049/63404b10-3b61-4054-821e-2847d6d4c6f8)
 
 Now that you've made your discord bot go to Oauth2 and then URL Generator. When you're there in the scopes section check the box next to bot and applications.commands, for bot permissions choose whatever you like.
+And finally scroll down, open the link and add your bot to your server of choice.
 
 # Adding your bot token to your code
 ![image](https://github.com/Zoxxide2023/Discord.py-bot/assets/97050049/a26108d0-b2e1-44a4-973a-b86cfbc91013)
