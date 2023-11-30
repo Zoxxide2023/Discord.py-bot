@@ -1,7 +1,7 @@
 # Discord.py-bot
 ![alt text](https://cdn.discordapp.com/attachments/1179868508696346644/1179868562958073926/download.png?ex=657b593a&is=6568e43a&hm=7532b214d6f4cbf51c33ad1ff40642b543a0ec925e80412d2ec814a32b04c06f&)
 
-This is a tutorial on how to make a discord.py bot
+This is a tutorial on how to make a discord.py bot using my bot package.
 
 # Create a discord bot
 ![image](https://github.com/Zoxxide2023/Discord.py-bot/assets/97050049/1f5e2b34-9edb-4463-a485-190267240d63)
@@ -36,3 +36,5 @@ Once you have python set up go to your terminal in visual studio code and hit CT
 # Running your bot
 
 Now you're all good to go! Go to your terminal and type python app.py and your bot should appear online/
+
+# If you have any problems with this please contact me on discord: .zoxxide. or join my [discord server](https://discord.gg/jvwuPgmeCK)
