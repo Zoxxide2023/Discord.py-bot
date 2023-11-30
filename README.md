@@ -11,3 +11,9 @@ Create a New Discord Bot:
 Go to the Discord Developer Portal and create a new application.
 Navigate to the "Bot" tab in the left sidebar and click "Add Bot."
 Click on "Copy" under the "Token" section to copy your bot token.
+
+# Step 2
+![image](https://github.com/Zoxxide2023/Discord.py-bot/assets/97050049/a26108d0-b2e1-44a4-973a-b86cfbc91013)
+
+Adding your bot token to your code:
+Once you've made your bot and you have your token open the folder you downloaded with your IDE of choice, example: [Visual Studio Code](https://code.visualstudio.com/download)
