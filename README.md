@@ -3,7 +3,7 @@
 
 This is a tutorial on how to make a discord.py bot
 
-# Step 1 
+# Create a discord bot
 ![image](https://github.com/Zoxxide2023/Discord.py-bot/assets/97050049/1f5e2b34-9edb-4463-a485-190267240d63)
 
 
@@ -12,7 +12,12 @@ Go to the Discord Developer Portal and create a new application.
 Navigate to the "Bot" tab in the left sidebar and click "Add Bot."
 Click on "Copy" under the "Token" section to copy your bot token.
 
-# Step 2
+# invite your bot
+![image](https://github.com/Zoxxide2023/Discord.py-bot/assets/97050049/63404b10-3b61-4054-821e-2847d6d4c6f8)
+
+Now that you've made your discord bot go to Oauth2 and then URL Generator. When you're there in the scopes section check the box next to bot and applications.commands, for bot permissions choose whatever you like.
+
+# Adding your bot token to your code
 ![image](https://github.com/Zoxxide2023/Discord.py-bot/assets/97050049/a26108d0-b2e1-44a4-973a-b86cfbc91013)
 
 Adding your bot token to your code:
@@ -23,4 +28,10 @@ Head over to bottoken.py and replace PASTE BOT TOKEN HERE with your bots token.
 ![image](https://github.com/Zoxxide2023/Discord.py-bot/assets/97050049/d6a331a6-687b-44e2-a060-3461faf58715)
 
 If you don't have python downloaded [here's the link](https://www.python.org/downloads/release/python-3116/).
-Once you have it set up go to your terminal in visual studio code and hit CTRL + SHIFT + ' and type pip install discord.py
+
+# Downloading discord.py
+Once you have python set up go to your terminal in visual studio code and hit CTRL + SHIFT + ' and type pip install discord.py
+
+# Running your bot
+
+Now you're all good to go! Go to your terminal and type python app.py and your bot should appear online/
